@@ -1,0 +1,7 @@
+A codificação ISO usada em países de língua oficial portuguesa é a ISO-8859-1. 
+Também connhecida por ISO-Latin-1, a ISO-8859-1 engloba as línguas europeias dos países ocidentais (Western Europe).
+Também é normal ser usado o ISO-8859-15 para textos em português, 
+uma codificação melhorada do ISO-8859-1 que possui pequenas correcções para o francês, e que inclui o símbolo monetário do euro
+ em detrimento de outros caracteres menos usados.
+O Windows-1252 é uma implementação Microsoft que inclui os caracteres do ISO-8859-1, do ISO-8859-15 e mais algumas ligeiras alterações. 
+é mais usado internamente nas aplicações Windows, mas não é invulgar aparecer como a codificação de ficheiros HTML.
