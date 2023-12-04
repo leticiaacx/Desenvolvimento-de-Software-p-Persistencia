@@ -17,7 +17,7 @@ public class MostrarHASH {
 
     public static String calcularHashSHA256(String arquivoCSV) throws IOException {
         try (FileInputStream fis = new FileInputStream(arquivoCSV)) {
-            MessageDigest digest = MessageDigest.getInstance("SHA-256");
+            MessageDigest digest = MessageDigest.getInstance("SHA-256");//calcular o hash do arquivo
             byte[] buffer = new byte[1024];
             int bytesRead;
 

@@ -39,7 +39,6 @@ public class InserirContato {
         String aniversario = scanner.nextLine();
 
         Contato contato = new Contato(nome, sobrenome, numero, email, aniversario);
-        
         return contato;
     }
 

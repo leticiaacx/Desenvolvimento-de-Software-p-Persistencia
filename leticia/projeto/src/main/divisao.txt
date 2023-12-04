@@ -1,0 +1,4 @@
+Fizemos bem dividos, Giovanna criou as classes e entidades e eu, Leticia, fiz as conexões 
+O desenvolvimento do projeto final avançou de maneira eficiente graças à colaboração entre nos duas. 
+Giovanna contribuiu criando as classes e entidades, estabelecendo uma base sólida, enquanto eu, Leticia, foquei nas conexões,
+garantindo uma integração eficiente. 
