@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     Categoria "1" -- "*" Contato
     Categoria "1" -- "*" Compromisso
@@ -27,3 +28,4 @@ class Compromisso {
     - horaFim: String
     - categoria_id: String
 }
+```
